@@ -16,6 +16,9 @@
 
 ### Features added:
 
+**Youtube video with sample run:**
+* https://youtu.be/3K-xmCgSZes
+
 **Java classes and libraries were added to integrate new APIs:**
 * Translator.java file was added to connect to the Google Cloud Translation API
 * Twitter4j java library was added to the classpath to connect to the Twitter API
