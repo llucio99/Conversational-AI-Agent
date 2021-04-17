@@ -1,0 +1,74 @@
+USER: yes.
+AGENT: What else can I help you with? 
+USER: no.
+AGENT: Hope the rest of the day goes well. Bye!
+USER: that was everything, thanks.
+AGENT: Hope your day gets better!
+USER: i have been really stressed lately.
+AGENT: What are you stressed about?
+USER: school related stuff.
+AGENT: Any specific school related topics?
+USER: i just feel overwhelmed with my workload.
+AGENT: Have your tried asking for help?
+USER: i feel so overwhelmed by my work that i have no time to rest.
+AGENT: Have you been getting enough sleep?
+USER: i have been working really long hours because of all the work i have.
+AGENT: Have you tried going for a walk?
+USER: i will ask my professor for help.
+AGENT: Professors and TAs are always there to help. Do you feel you have too many assignments due or tests to do?
+USER: yeah a lot of assignments.
+AGENT: I suggest setting up a goal for yourself to help motivate you to complete your assignments.
+USER: yeah a lot of tests.
+AGENT: I suggest taking small breaks in between study cycles so you don't overload yourself.
+USER: yeah both assignments and tests.
+AGENT: I suggest setting a goal for yourself to get the assignments done but also making sure you are taking small breaks to relax your mind and body.
+USER: thank you for the advice. 
+AGENT: No problem! Anything else I can help you with?
+USER: thank you for your advice. 
+AGENT: No problem! Anything else I can help you with?
+USER: my anxiety has gotten worse lately.
+AGENT: Have you spoken to a doctor about your anxiety?
+USER: i have not.
+AGENT: You should consider speaking to one. Your recent stress about school could be causing your anxiety.
+USER: i am a little nervous to speak with my doctor.
+AGENT: Nervous about speaking in person or what they will say?
+USER: nervous about speaking in person.
+AGENT: Doctors are there to help so you shouldn't be afraid to speak with them.
+USER: nervous about what the doctor might say.
+AGENT: Doctors are there to help you, so what they say is in your best interest.
+USER: okay i'll make an appointment. thank you.
+AGENT: No problem! Anything else I can help you with?
+USER: i had some questions about depression.
+AGENT: What about depression would you like to know about?
+USER: what is it?
+AGENT: It is a medical condition that affects your normal day-to-day activities at a high severity level for a minimum duration of two weeks.
+USER: what is depression?
+AGENT: It is a medical condition that affects your normal day-to-day activities at a high severity level for a minimum duration of two weeks.
+USER: could my increased workload be a factor?
+AGENT: High stress situations can definitely be a trigger for depression.
+USER: are there any other symptoms?
+AGENT: Sadness, lower self-esteem, hopelessness, thoughts of death.
+USER: are there any more?
+AGENT: Fatigue, agitation, changes in appetite, lack of sleep, loss of interest in everyday tasks.
+USER: that is scary and interesting at the same time.
+AGENT: Have you been experiencing any of these symptoms for the last couple weeks?
+USER: i have experienced some of them.
+AGENT: Have you spoken to your doctor about depression?
+USER: not yet.
+AGENT: You should speak to your doctor.
+USER: okay i will set up an appointment.
+AGENT: Your doctor will be able to help you determine if you have depression or anxiety as both can be very similar.
+USER: i hope so.
+AGENT: Just make sure you are descriptive with your symptoms and how you are feeling.
+USER: anything i can do right now to help get well?
+AGENT: I suggest you make sure that you are getting adequate sleep and exercise.
+USER: you have been very helpful.
+AGENT: I am glad I could help.
+USER: thank you.
+AGENT: No problem! Anything else I can help you with?
+USER: bye!
+AGENT: Goodbye!
+USER: 
+AGENT: I see a blank message. Please write something in you message before sending it so that I can help you.
+USER: 
+AGENT: 

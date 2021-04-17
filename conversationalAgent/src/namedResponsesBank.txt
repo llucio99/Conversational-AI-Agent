@@ -1,0 +1,4 @@
+USER: My friend NAME is feeling anxious.
+AGENT: Why is your friend NAME feeling anxious?
+USER: My NAME has been feeling depressed.
+AGENT: Do you know why NAME has been feeling depressed?

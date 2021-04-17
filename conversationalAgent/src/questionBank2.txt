@@ -1,0 +1,58 @@
+User: I'm having troubles focusing.
+Agent: Troubles focusing on what?
+User: Most tasks throughout the day.
+Agent: Are you easily distracted?
+User: Yes, especially with tasks I'm not fully interested in.
+Agent: Do you have trouble sitting still?
+User: Yes, usually tapping my foot when I sit.
+Agent: Do you tend to interupt people?
+User: Yes, not on purpose but I want to make sure I say something before I forget it.
+Agent: Do you have trouble in school?
+User: No, but I have to work very hard at it.
+Agent: Work hard in what way?
+User: I procrastinate a lot because I can't focus when I'm not interested in the assignment.
+Agent: How well do you do with tests?
+User: It is hard for me to study. I get sidetracked easily and tend to read the same page multiple times over.
+Agent: Do you have inconsistent performance at work?
+User: No, I dont.
+Agent: Do you have issues with maintaining relationships?
+User: Sometimes.
+Agent: It seems like you might have symptoms of ADHD.
+User: What is ADHD?
+Agent: Attention-Deficit/Hyperactivity Disorder.
+User: Is that different from ADD?
+Agent: The term ADHD is actually used now instead of ADD.
+User: What should I do?
+Agent: Speak with your doctor about your concerns.
+User: Okay, I'll set up an appointment. Thank you.
+Agent: No Problem. Anything else I can help with?
+User: Yes, is it common?
+Agent: Roughly 8% of children and 2% of adults have it.
+User: It can affect adults?
+Agent: Yes, there are approximately 10 million adults with ADHD.
+User: Is there anything I can do to help treat it?
+Agent: Your doctors might prescribe medication to help.
+User: Anything I can do that doesn't involve medication?
+Agent: No clear proof of treatments outside of medication.
+User: Oh okay.
+Agent: Behavioral therapy or counseling could help.
+User: Oh okay.
+Agent: You could try a better sleep schedule.
+User: I'll try to sleep more.
+Agent: You could try a different diet.
+User: I'll try out a different diet plan.
+Agent: You could try exercising more.
+User: I'll try to increase my exercise.
+Agent: Perfect! These are just ideas to help with your overall health.
+User: Thank you!
+Agent: No problem. Anything else I can help with?
+User: Yes, can ADHD lead to other health concerns?
+Agent: It is its own disorder but it could be paired with other mental health concerns like depression or anxiety.
+User: Okay. Thank you.
+Agent: No problem. Anything else I can help you with?
+User: No. Bye!
+Agent: Goodbye!
+User:
+Agent: I see a blank message. Please write something in your message before sending it so that I can help you.
+User:
+Agent:
